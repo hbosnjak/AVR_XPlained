@@ -1,1 +1,1 @@
-Welcome to the atmel-avr-xmini-boardmanagermodule wiki!
+Welcome to the Atmel AVR Xplained mini Arduino Boards Manager module wiki!
