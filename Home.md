@@ -1,6 +1,15 @@
+
 Welcome to the Atmel AVR Xplained mini Arduino Boards Manager module wiki!
 
-You will find here 
+You will find here [how to prepare your board](https://github.com/AtmelUniversityFrance/atmel-avr-xmini-boardmanagermodule/wiki/01.-Preparing-atmega*-Xplained-mini-for-Arduino-IDE-use-(MS-Windows)) before using it with Arduino IDE and [how to install this add-on package](https://github.com/AtmelUniversityFrance/atmel-avr-xmini-boardmanagermodule/wiki/02.-How-to-use-AVR-Xminis-board-in-Arduino-IDE) in Arduino IDE.
+
+Any bug report, improvement request, etc... should be written in [this repository issues](https://github.com/AtmelUniversityFrance/atmel-avr-xmini-boardmanagermodule/issues).
+
+All contributions are welcome and should be submitted via Pull Requests, following usual Git/Github flow.
+
+
+***
+
 
 References for all articles visible here are:
 - [AVR Xplained mini initial doc from Atmel Spaces](https://spaces.atmel.com/gf/project/avr_xp_mini/frs/)
