@@ -1,0 +1,1 @@
+![](https://github.com/AtmelUniversityFrance/atmel-avr-xmini-boardmanagermodule/blob/master/extras/wiki_images/wiki_footer.png)
