@@ -1,5 +1,5 @@
 
-Welcome to the wiki of **Atmel AVR Xplained minis module** for Arduino IDE Boards Manager!
+Welcome to the wiki of **Atmel AVR Xplained minis package** for Arduino IDE Boards Manager!
 
 You will find here [how to prepare your board](https://github.com/AtmelUniversityFrance/atmel-avr-xmini-boardmanagermodule/wiki/01.-Preparing-atmega*-Xplained-mini-for-Arduino-IDE-use-(MS-Windows)) before using it with Arduino IDE and [how to install this add-on package](https://github.com/AtmelUniversityFrance/atmel-avr-xmini-boardmanagermodule/wiki/02.-How-to-use-AVR-Xminis-board-in-Arduino-IDE) in Arduino IDE.
 
