@@ -1,1 +1,1 @@
-![](https://github.com/AtmelUniversityFrance/atmel-avr-xmini-boardmanagermodule/blob/master/extras/wiki_images/wiki_footer.png)
+![atmel_university_logo](https://github.com/AtmelUniversityFrance/atmel-avr-xmini-boardmanagermodule/blob/master/extras/wiki_images/Univ_Prog_Microsite_landing_734x175_041414.jpg)
